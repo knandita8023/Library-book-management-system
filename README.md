@@ -89,6 +89,7 @@ No books available.
 
 Enter your choice: 5
 Thank you!
+
  Future scope:
  Store records permanently using files or databases.
 Add login and authentication system.
@@ -97,5 +98,6 @@ Generate reports of issued and returned books.
 Add due-date and fine calculation.
 Develop a graphical user interface (GUI).
 Convert into a web or mobile application.
+
 Conclusion:
 The Library Book Management System is a simple and effective Python project that automates basic library operations and can be expanded into a complete library management solution.
